@@ -2,10 +2,6 @@
 
 Sebuah Arsip tentang UI/UX dari seorang pemula.
 
-> Aku kepikiran, maka aku lakukan.
-> Aku rasakan, maka aku jalani.
-> sesimple itu.
-
 ### Struktur Folder
 
 ```
