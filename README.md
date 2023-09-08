@@ -1,5 +1,6 @@
 # UI/UX
 
+> a self-taught journey mastering UI/UX
 Sebuah Arsip tentang UI/UX dari seorang pemula.
 
 ### Struktur Folder
